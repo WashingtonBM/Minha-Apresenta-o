@@ -1,3 +1,88 @@
+📑 Projeto: Apresentação Profissional
+
+Este projeto detalha a criação de um vídeo de apresentação corporativa utilizando Inteligência Artificial, 
+focado na trajetória profissional de Washington Brito. O objetivo é demonstrar competências em gestão administrativa, 
+análise de dados e resiliência, utilizando uma estética moderna e minimalista.
+
+🔗 Acesse o Hub do Projeto: admin-wiz-hub.lovable.app
+
+🎯 Objetivo
+Apresentar de forma dinâmica e tecnológica o perfil profissional de um Assistente Administrativo/Financeiro, destacando:
+
+Formação sólida (SENAI e Graduação em Administração).
+
+Domínio técnico (Excel, Power BI e IA).
+
+Experiência de 10 anos em tesouraria voluntária.
+
+Perfil resiliente e proativo (Profissional PCD).
+
+🎨 Identidade Visual e Estilo
+O projeto segue uma linha Corporate Minimalist, garantindo que a mensagem seja o foco principal.
+
+Paleta de Cores: Azul Claro (Confiança), Branco (Clareza) e Cinza (Soberiedade).
+
+Tipografia: Montserrat (Sans-serif limpa e moderna).
+
+Ambiente: Escritório virtual minimalista com iluminação suave.
+
+🛠️ Estrutura do Projeto
+O projeto está dividido em 5 pilares para execução rápida (menos de 5 minutos) em plataformas como HeyGen, Vidnoz AI ou Synthesia:
+
+1. Prompt de Geração (IA Generator)
+Configuração técnica para que a IA gere a imagem e o comportamento do avatar de forma fiel à realidade.
+
+Foco: Postura profissional, camisa social azul e gestos naturais.
+
+2. Script Otimizado
+Roteiro de 40 a 45 segundos desenhado para manter o engajamento e transmitir autoridade.
+
+Intro: Nome e foco.
+
+Educação: Base técnica.
+
+Hard Skills: Tecnologia aplicada.
+
+Social: Experiência voluntária.
+
+Closing: Chamada para ação (CTA).
+
+3. Setup do Avatar
+Diretrizes de aparência para garantir o reconhecimento pessoal e profissional:
+
+Cabelo curto e barba leve.
+
+Expressão amigável e sorriso profissional.
+
+Enquadramento em plano médio.
+
+4. Storyboard Visual
+Divisão das cenas com sobreposições (overlays) dinâmicas:
+
+Cena 1: Nome e Cargo.
+
+Cena 2: Formação Técnica.
+
+Cena 3: Dashboards e ícones de IA.
+
+Cena 4: Timeline de experiência.
+
+Cena 5: Disponibilidade para contato.
+
+5. Estratégia de LinkedIn
+Modelo de postagem pronto para gerar alcance, utilizando gatilhos mentais de inovação e competência técnica.
+
+🚀 Como utilizar este material
+Imagens: Utilize sua foto profissional de alta resolução.
+
+Plataforma: Escolha sua ferramenta de IA de preferência (HeyGen recomendada).
+
+Voz: Selecione uma voz brasileira masculina, configurada para tom "Calmo/Profissional".
+
+Edição: Insira as marcas de Excel e Power BI conforme o storyboard na Cena 3.
+
+👤 Autor
+Washington Brito Técnico e Graduando em Administração Especialista em Eficiência Administrativa e Análise de Dados.
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
